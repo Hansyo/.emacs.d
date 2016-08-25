@@ -1,8 +1,8 @@
 ;;; -*- coding: utf-8 -*-
-(("c:/Users/hansy/Dropbox/macros.txt" . 64)
+(("c:/Users/hansy/Dropbox/init.el" . 112)
+ ("c:/Users/hansy/Dropbox/macros.txt" . 64)
  ("c:/Users/hansy/doskey.txt" . 51)
  ("c:/Users/hansy/programs/.emacs.d/Flycheck" . 579)
- ("c:/Users/hansy/Dropbox/init.el" . 112)
  ("c:/Users/hansy/"
 	(dired-filename . "c:/Users/hansy/Google ドライブ"))
  ("c:/Users/hansy/programs/0to99.c" . 477)
