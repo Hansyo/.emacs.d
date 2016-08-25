@@ -1,5 +1,7 @@
 ;;; -*- coding: utf-8 -*-
-(("c:/Users/hansy/programs/.emacs.d/.gitgnone" . 97)
+(("c:/Users/hansy/programs/.emacs.d/"
+	(dired-filename . "c:/Users/hansy/programs/.emacs.d/.gitignore"))
+ ("c:/Users/hansy/programs/.emacs.d/.gitignore" . 24)
  ("c:/Users/hansy/Dropbox/init.el" . 112)
  ("c:/Users/hansy/Dropbox/macros.txt" . 64)
  ("c:/Users/hansy/doskey.txt" . 51)
@@ -9,8 +11,6 @@
  ("c:/Users/hansy/programs/0to99.c" . 477)
  ("c:/Users/hansy/programs/.emacs.d/inits/"
 	(dired-filename . "c:/Users/hansy/programs/.emacs.d/inits/.."))
- ("c:/Users/hansy/programs/.emacs.d/"
-	(dired-filename . "c:/Users/hansy/programs/.emacs.d/.."))
  ("c:/Users/hansy/programs/"
 	(dired-filename . "c:/Users/hansy/programs/NTEmacs64-master"))
  ("c:/Users/hansy/programs/NTEmacs64-master/"
