@@ -1,0 +1,76 @@
+;;; -*- coding: utf-8 -*-
+(("c:/Users/hansy/programs/.emacs.d/.gitgnone" . 97)
+ ("c:/Users/hansy/Dropbox/init.el" . 112)
+ ("c:/Users/hansy/Dropbox/macros.txt" . 64)
+ ("c:/Users/hansy/doskey.txt" . 51)
+ ("c:/Users/hansy/programs/.emacs.d/Flycheck" . 579)
+ ("c:/Users/hansy/"
+	(dired-filename . "c:/Users/hansy/Google ドライブ"))
+ ("c:/Users/hansy/programs/0to99.c" . 477)
+ ("c:/Users/hansy/programs/.emacs.d/inits/"
+	(dired-filename . "c:/Users/hansy/programs/.emacs.d/inits/.."))
+ ("c:/Users/hansy/programs/.emacs.d/"
+	(dired-filename . "c:/Users/hansy/programs/.emacs.d/.."))
+ ("c:/Users/hansy/programs/"
+	(dired-filename . "c:/Users/hansy/programs/NTEmacs64-master"))
+ ("c:/Users/hansy/programs/NTEmacs64-master/"
+	(dired-filename . "c:/Users/hansy/programs/NTEmacs64-master/NTEmacs64-master"))
+ ("c:/Users/hansy/programs/NTEmacs64-master/NTEmacs64-master/"
+	(dired-filename . "c:/Users/hansy/programs/NTEmacs64-master/NTEmacs64-master/emacs-24.5-IME-patched"))
+ ("c:/Users/hansy/programs/NTEmacs64-master/NTEmacs64-master/emacs-24.5-IME-patched/emacs-24.5-IME-patched/share/emacs/24.5/site-lisp/"
+	(dired-filename . "c:/Users/hansy/programs/NTEmacs64-master/NTEmacs64-master/emacs-24.5-IME-patched/emacs-24.5-IME-patched/share/emacs/24.5/site-lisp/.."))
+ ("c:/Users/hansy/programs/NTEmacs64-master/NTEmacs64-master/emacs-24.5-IME-patched/"
+	(dired-filename . "c:/Users/hansy/programs/NTEmacs64-master/NTEmacs64-master/emacs-24.5-IME-patched/emacs-24.5-IME-patched"))
+ ("c:/Users/hansy/programs/NTEmacs64-master/NTEmacs64-master/emacs-24.5-IME-patched/emacs-24.5-IME-patched/libexec/emacs/24.5/x86_64-pc-mingw32/"
+	(dired-filename . "c:/Users/hansy/programs/NTEmacs64-master/NTEmacs64-master/emacs-24.5-IME-patched/emacs-24.5-IME-patched/libexec/emacs/24.5/x86_64-pc-mingw32/.."))
+ ("c:/Users/hansy/programs/NTEmacs64-master/NTEmacs64-master/emacs-24.5-IME-patched/emacs-24.5-IME-patched/libexec/emacs/24.5/"
+	(dired-filename . "c:/Users/hansy/programs/NTEmacs64-master/NTEmacs64-master/emacs-24.5-IME-patched/emacs-24.5-IME-patched/libexec/emacs/24.5/.."))
+ ("c:/Users/hansy/programs/NTEmacs64-master/NTEmacs64-master/emacs-24.5-IME-patched/emacs-24.5-IME-patched/libexec/emacs/"
+	(dired-filename . "c:/Users/hansy/programs/NTEmacs64-master/NTEmacs64-master/emacs-24.5-IME-patched/emacs-24.5-IME-patched/libexec/emacs/.."))
+ ("c:/Users/hansy/programs/NTEmacs64-master/NTEmacs64-master/emacs-24.5-IME-patched/emacs-24.5-IME-patched/var/games/emacs/"
+	(dired-filename . "c:/Users/hansy/programs/NTEmacs64-master/NTEmacs64-master/emacs-24.5-IME-patched/emacs-24.5-IME-patched/var/games/emacs/.."))
+ ("c:/Users/hansy/programs/NTEmacs64-master/NTEmacs64-master/emacs-24.5-IME-patched/emacs-24.5-IME-patched/var/games/"
+	(dired-filename . "c:/Users/hansy/programs/NTEmacs64-master/NTEmacs64-master/emacs-24.5-IME-patched/emacs-24.5-IME-patched/var/games/.."))
+ ("c:/Users/hansy/programs/NTEmacs64-master/NTEmacs64-master/emacs-24.5-IME-patched/emacs-24.5-IME-patched/var/"
+	(dired-filename . "c:/Users/hansy/programs/NTEmacs64-master/NTEmacs64-master/emacs-24.5-IME-patched/emacs-24.5-IME-patched/var/.."))
+ ("c:/Users/hansy/programs/NTEmacs64-master/NTEmacs64-master/emacs-24.5-IME-patched/emacs-24.5-IME-patched/bin/"
+	(dired-filename . "c:/Users/hansy/programs/NTEmacs64-master/NTEmacs64-master/emacs-24.5-IME-patched/emacs-24.5-IME-patched/bin/.."))
+ ("c:/Users/hansy/programs/NTEmacs64-master/NTEmacs64-master/emacs-24.5-IME-patched/emacs-24.5-IME-patched/libexec/"
+	(dired-filename . "c:/Users/hansy/programs/NTEmacs64-master/NTEmacs64-master/emacs-24.5-IME-patched/emacs-24.5-IME-patched/libexec/.."))
+ ("c:/Users/hansy/programs/NTEmacs64-master/NTEmacs64-master/emacs-24.5-IME-patched/emacs-24.5-IME-patched/"
+	(dired-filename . "c:/Users/hansy/programs/NTEmacs64-master/NTEmacs64-master/emacs-24.5-IME-patched/emacs-24.5-IME-patched/share"))
+ ("c:/Users/hansy/programs/NTEmacs64-master/NTEmacs64-master/emacs-24.5-IME-patched/emacs-24.5-IME-patched/share/applications/"
+	(dired-filename . "c:/Users/hansy/programs/NTEmacs64-master/NTEmacs64-master/emacs-24.5-IME-patched/emacs-24.5-IME-patched/share/applications/.."))
+ ("c:/Users/hansy/programs/NTEmacs64-master/NTEmacs64-master/emacs-24.5-IME-patched/emacs-24.5-IME-patched/share/"
+	(dired-filename . "c:/Users/hansy/programs/NTEmacs64-master/NTEmacs64-master/emacs-24.5-IME-patched/emacs-24.5-IME-patched/share/emacs"))
+ ("c:/Users/hansy/programs/NTEmacs64-master/NTEmacs64-master/emacs-24.5-IME-patched/emacs-24.5-IME-patched/share/emacs/site-lisp/"
+	(dired-filename . "c:/Users/hansy/programs/NTEmacs64-master/NTEmacs64-master/emacs-24.5-IME-patched/emacs-24.5-IME-patched/share/emacs/site-lisp/.."))
+ ("c:/Users/hansy/programs/NTEmacs64-master/NTEmacs64-master/emacs-24.5-IME-patched/emacs-24.5-IME-patched/share/emacs/"
+	(dired-filename . "c:/Users/hansy/programs/NTEmacs64-master/NTEmacs64-master/emacs-24.5-IME-patched/emacs-24.5-IME-patched/share/emacs/24.5"))
+ ("c:/Users/hansy/programs/NTEmacs64-master/NTEmacs64-master/emacs-24.5-IME-patched/emacs-24.5-IME-patched/share/emacs/24.5/"
+	(dired-filename . "c:/Users/hansy/programs/NTEmacs64-master/NTEmacs64-master/emacs-24.5-IME-patched/emacs-24.5-IME-patched/share/emacs/24.5/lisp"))
+ ("c:/Users/hansy/programs/NTEmacs64-master/NTEmacs64-master/emacs-24.5-IME-patched/emacs-24.5-IME-patched/share/emacs/24.5/lisp/"
+	(dired-filename . "c:/Users/hansy/programs/NTEmacs64-master/NTEmacs64-master/emacs-24.5-IME-patched/emacs-24.5-IME-patched/share/emacs/24.5/lisp/COPYING"))
+ ("c:/Users/hansy/programs/NTEmacs64-master/NTEmacs64-master/emacs-24.5-IME-patched/emacs-24.5-IME-patched/share/emacs/24.5/lisp/progmodes/flymake.elc" . 478)
+ ("c:/Users/hansy/programs/NTEmacs64-master/NTEmacs64-master/emacs-24.5-IME-patched/emacs-24.5-IME-patched/share/emacs/24.5/lisp/progmodes/"
+	(dired-filename . "c:/Users/hansy/programs/NTEmacs64-master/NTEmacs64-master/emacs-24.5-IME-patched/emacs-24.5-IME-patched/share/emacs/24.5/lisp/progmodes/idlw-toolbar.el.gz"))
+ ("c:/Users/hansy/programs/.emacs.d/inits/02_Pointer.el" . 239)
+ ("c:/Users/hansy/programs/.emacs.d/inits/01_AutoInstall.el" . 136)
+ ("c:/Users/hansy/programs/.emacs.d/inits/01_AutoComplete.el" . 68)
+ ("c:/Users/hansy/programs/.emacs.d/elisp/anything-complete.el" . 4880)
+ ("c:/Users/hansy/SchoolPrograms/Howmany.c" . 1474)
+ ("c:/Users/hansy/Documents/Arduino/"
+	(dired-filename . "c:/Users/hansy/Documents/Arduino/.."))
+ ("c:/Users/hansy/Documents/"
+	(dired-filename . "c:/Users/hansy/Documents/我々は世界を弄ぶような運命と出会った.txt"))
+ ("c:/Users/hansy/Documents/我々は世界を弄ぶような運命と出会った.txt" . 100)
+ ("c:/Users/hansy/Documents/Bookmarks-Chrome.txt" . 89492)
+ ("c:/Users/hansy/programs/otoge/ADRkey.keystore" . 2124)
+ ("c:/Users/hansy/programs/otoge/taponly.c" . 69)
+ ("c:/Users/hansy/programs/Battle.c" . 371)
+ ("c:/Users/hansy/programs/.emacs.d/elisp/"
+	(dired-filename . "c:/Users/hansy/programs/.emacs.d/elisp/auto-install.el"))
+ ("c:/Users/hansy/programs/.emacs.d/elisp/anything-config.el" . 524694)
+ ("c:/Users/hansy/programs/.emacs.d/elisp/anything-match-plugin.el" . 28164)
+ ("c:/Users/hansy/programs/.emacs.d/elisp/auto-install.el" . 8323)
+ ("c:/Users/hansy/programs/nn.c" . 119))
