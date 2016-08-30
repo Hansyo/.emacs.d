@@ -3,8 +3,6 @@
 ;;----
 (require 'flymake)
 
-(require 'flymake)
-
 (defun flymake-cc-init ()
   (let* ((temp-file   (flymake-init-create-temp-buffer-copy
                        'flymake-create-temp-inplace))
