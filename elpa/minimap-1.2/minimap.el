@@ -131,13 +131,15 @@ By default, this is only a different background color."
   :type 'number
   :group 'minimap)
 
-(defcustom minimap-minimum-width 30
+;; 横の長さの割合
+(defcustom minimap-minimum-width 15
   "Minimum width of minimap in characters (default size).
 Use nil to disable."
   :type 'number
   :group 'minimap)
 
-(defcustom minimap-window-location 'left
+;;左右のどちらに表示するかの変更
+(defcustom minimap-window-location 'right
   "Location of the minimap window.
 Can be either the symbol `left' or `right'."
   :type '(choice (const :tag "Left" left)
