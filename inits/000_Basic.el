@@ -102,7 +102,7 @@
 (set-face-background 'whitespace-tab "nil")
 
 (set-face-foreground 'whitespace-newline  "DimGray")
-(set-face-background 'whitespace-newline 'nil)
+(set-face-background 'whitespace-newline "nil")
 
 
 ;;===========================================
