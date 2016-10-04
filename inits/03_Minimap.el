@@ -1,3 +1,2 @@
-(setq load-path (cons "~/.emacs.d/elpa/minimap-1.2" load-path))
-(require 'minimap)
+(require 'minimap "~/.emacs.d/elpa/minimap-1.2/minimap")
 (minimap-mode t)

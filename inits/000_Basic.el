@@ -17,7 +17,7 @@
 ;;行番号表示
 ;;----
 (global-linum-mode t)
-(setq linum-format "%5d ")
+(defvar linum-format "%5d ")
 
 ;;----
 ;; カラム番号
@@ -32,7 +32,7 @@
 ;;----
 ;; カーソル行を下線に表示
 ;;----
-(setq hl-line-face 'underline)
+(defvar hl-line-face 'underline)
 (global-hl-line-mode t)
 
 ;;----
@@ -41,7 +41,7 @@
 ;; 不採用    ;; 時間を表示
 ;; 不採用    (display-time)
 (setq display-time-day-and-date t)  ;; 曜日・月・日
-(setq display-time-24hr-format t)   ;; 24時表示
+(defvar display-time-24hr-format t)   ;; 24時表示
 (display-time-mode t)
 
 ;;----

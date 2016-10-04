@@ -2,7 +2,7 @@
 ;; 対応する括弧の強調表示
 ;;----
 (show-paren-mode t)
-(setq show-paren-style 'mixed)
+(defvar show-paren-style 'mixed)
 
 ;;----
 ;; 自動セーブ機能をoffにする

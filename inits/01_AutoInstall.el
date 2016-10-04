@@ -4,4 +4,4 @@
 (require 'install-elisp "~/.emacs.d/elisp/install-elisp")
 
 ;; 保存先の指定
-(setq install-elisp-respository-directory "~/.emaccs.d/elisp/")
+(defvar install-elisp-respository-directory "~/.emaccs.d/elisp/")
