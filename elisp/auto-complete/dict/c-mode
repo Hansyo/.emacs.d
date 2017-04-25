@@ -33,8 +33,10 @@ inline
 int
 line
 long
+main(int argc, char *argv[])
 _Noreturn
 pragma
+rand()
 register
 restrict
 return
@@ -42,9 +44,15 @@ short
 signed
 sizeof
 static
+stdio.h
+stdlib.h
 struct
+string.h
+srand
 switch
 _Static_assert
+time.h
+time
 typedef
 _Thread_local
 undef
