@@ -47,6 +47,7 @@
 ;;----
 ;; TABの表示幅
 ;;----
+(setq-default tab-width 2)
 
 ;;----
 ;; インデント時にTABでは無くSPACEを挿入する
