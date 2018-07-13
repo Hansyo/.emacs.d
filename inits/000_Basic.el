@@ -9,6 +9,13 @@
 ;(setq load-path (cons "~/.emacs.d/elisp" load-path))
 
 ;;----
+;; 文字コードの設定
+;;----
+(set-default-coding-systems 'utf-8-dos)
+;; ただしパスとファイル名はShift_JIS
+(setq Default-file-name-coding-system 'sjis-dos)
+
+;;----
 ;; スタートアップページを表示しない
 ;;----
 (setq inhibit-startup-message t)
@@ -145,3 +152,11 @@
 ;; C-hを<del>のシーケンスに上書きする
 ;;----
 (keyboard-translate ?\C-h ?\C-?)
+
+;; Default encoding
+(set-default-coding-systems 'utf-8)
+(set-buffer-file-coding-system 'utf-8)
+(set-terminal-coding-system 'utf-8)
+(set-keyboard-coding-system 'utf-8)
+(prefer-coding-system 'utf-8)
+
