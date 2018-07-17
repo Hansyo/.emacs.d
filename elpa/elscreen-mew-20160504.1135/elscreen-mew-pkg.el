@@ -1,0 +1,1 @@
+(define-package "elscreen-mew" "20160504.1135" "ElScreen Add-On for Mew" '((elscreen "20120413.807")) :commit "c90a23441d836da14a1cb12788432308ba58e2b6" :url "https://github.com/masutaka/elscreen-mew")

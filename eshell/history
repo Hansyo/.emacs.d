@@ -1,0 +1,128 @@
+cat led-pwm.mot > /dev/ttyUSB0 
+cat led-pwm.mot > /dev/ttyUSB0 
+cat led-pwm.mot > /dev/ttyUSB0 
+cat led-pwm.mot > /dev/ttyUSB0 
+cat led-pwm.mot > /dev/ttyUSB0 
+cat led-pwm.mot > /dev/ttyUSB0 
+cat led-pwm.mot > /dev/ttyUSB0 
+cat led-pwm.mot > /dev/ttyUSB0 
+cat led-pwm.mot > /dev/ttyUSB0 
+cat led-pwm.mot > /dev/ttyUSB0 
+cat led-pwm.mot > /dev/ttyUSB0 
+cat led-pwm.mot > /dev/ttyUSB0 
+cat led-pwm.mot > /dev/ttyUSB0 
+cat led-pwm.mot > /dev/ttyUSB0 
+cat led-pwm.mot > /dev/ttyUSB0 
+cd ~jikken
+cd ~/Jikken/J4/assembler/
+h8300-hms-gcc -S 11_if2.c
+pushd
+popd
+diff /home/class/j4/jikken/H8/src/11_if2_answer.s 11_if2.s
+h8300-hms-gcc -S 11_if2.c
+diff /home/class/j4/jikken/H8/src/11_if2_answer.s 11_if2.s
+h8300-hms-gcc -S 11_if2.c
+diff /home/class/j4/jikken/H8/src/11_if2_answer.s 11_if2.s
+pushd
+pushd .
+cd ..
+popd
+popd
+cat led-pwm.mot > /dev/ttyUSB0 
+cat led-pwm.mot > /dev/ttyUSB0 
+cat led-pwm.mot > /dev/ttyUSB0 
+cat led-pwm.mot > /dev/ttyUSB0 
+cat led-pwm.mot > /dev/ttyUSB0 
+cat led-pwm.mot > /dev/ttyUSB0 
+cat led-pwm.mot > /dev/ttyUSB0 
+cat led-pwm.mot > /dev/ttyUSB0 
+cat led-pwm.mot > /dev/ttyUSB0 
+h8300-hms-gcc 11_if2_test.s
+ls
+./a.out
+ls
+ls
+h8300-hms-gcc -S 12_if3.c 
+mv 12_if3_ver2.s 12_if3_ver2.c
+h8300-hms-gcc -S 12_if3_ver2.c 
+diff /home/class/j4/jikken/H8/src/12_if3.answer.s 12_if3.s
+diff 12_if3.s 12_if3_ver2.s
+h8300-hms-gcc -S 13_for.c  
+diff /home/class/j4/jikken/H8/src/13_nazo.answer.s _13_for.s
+h8300-hms-gcc -S 13_for_ver2.c   
+diff /home/class/j4/jikken/H8/src/13_nazo.answer.s _13_for_ver2.s
+diff 13_for.s 13_for_ver2.s
+h8300-hms-gcc -S 13_for_ver3.c 
+h8300-hms-gcc -S 13_for_ver3.c 
+h8300-hms-gcc -S 13_for_ver3.c 
+h8300-hms-gcc -S 13_for_ver3.c 
+h8300-hms-gcc -S 13_for_ver3.c 
+diff 13_for.s 13_for_ver3.s
+./test_scanner
+./test_scanner
+./test_scanner
+./test_scanner
+./test_scanner
+./test_scanner
+./test_scanner
+cat led-pwm.mot > /dev/ttyUSB0 
+cat led-pwm.mot > /dev/ttyUSB0 
+cat led-pwm.mot > /dev/ttyUSB0 
+h8300-hms-gcc -S 13_kadai_1.c 
+h8300-hms-gcc -S kadai_1.c 
+h8300-hms-gcc -S 14_function2.c  
+h8300-hms-gcc -S 14_function2.c  
+h8300-hms-gcc -S kadai2.c
+diff kadai2.s /home/class/j4/jikken/H8/src/kadai_2.answer.s
+h8300-hms-gcc -S kadai2.c
+diff /home/class/j4/jikken/H8/src/kadai_2.answer.s kadai2.s
+h8300-hms-gcc -S kadai2.c
+diff /home/class/j4/jikken/H8/src/kadai_2.answer.s kadai2.s
+diff /home/class/j4/jikken/H8/src/kadai_2.answer.s kadai_2.s
+h8300-hms-gcc -S kadai_2_ver2.c 
+diff /home/class/j4/jikken/H8/src/kadai_2.answer.s kadai_2_ver2.s
+h8300-hms-gcc -S kadai_final_answer.c 
+diff /home/class/j4/jikken/H8/src/kadai_final.answer.s  kadai_final_answer.c
+diff /home/class/j4/jikken/H8/src/kadai_final.answer.s  kadai_final_answer.s
+cp kadai_final_answer.s kadai_final.answer.s 
+diff /home/class/j4/jikken/H8/src/kadai_final.answer.s  kadai_final.answer.s
+diff /home/class/j4/jikken/H8/src/kadai_final.answer.s  kadai_final.answer.sss
+cp kadai_final_answer.c kadai_final.answer.c
+h8300-hms-gcc -S kadai_final.answer.c 
+diff /home/class/j4/jikken/H8/src/kadai_final.answer.s  kadai_final.answer.s
+cp kadai_final.answer.c kadai_final.c
+h8300-hms-gcc -S kadai_final.answer.c 
+diff /home/class/j4/jikken/H8/src/kadai_final.answer.s  kadai_final.s
+h8300-hms-gcc -S kadai_final.c 
+diff /home/class/j4/jikken/H8/src/kadai_final.answer.s  kadai_final.s
+h8300-hms-gcc -S kadai_final.c 
+diff /home/class/j4/jikken/H8/src/kadai_final.answer.s  kadai_final.s
+h8300-hms-gcc -S kadai_final.c 
+diff /home/class/j4/jikken/H8/src/kadai_final.answer.s  kadai_final.s
+cat led-pwm.mot > /dev/ttyUSB0 
+cat led-pwm.mot > /dev/ttyUSB0 
+cat led-pwm.mot > /dev/ttyUSB0 
+cat led-pwm.mot > /dev/ttyUSB0 
+ls
+diff make-led-pwm make-tuika_2 
+cat led-pwm.mot > /dev/ttyUSB0 
+cat tuika_2.mot > /dev/ttyUSB0 
+cat tuika_2.mot > /dev/ttyUSB0 
+cat tuika_2.mot > /dev/ttyUSB0 
+cat tuika_2.mot > /dev/ttyUSB0 
+cat tuika_2.mot > /dev/ttyUSB0 
+cat tuika_2.mot > /dev/ttyUSB0 
+cat tuika_2.mot > /dev/ttyUSB0 
+cat tuika_2.mot > /dev/ttyUSB0 
+cat tuika_2.mot > /dev/ttyUSB0 
+cat tuika_2.mot > /dev/ttyUSB0 
+cat tuika_2.mot > /dev/ttyUSB0 
+cat tuika_2.mot > /dev/ttyUSB0 
+cat tuika_2.mot > /dev/ttyUSB0 
+cat tuika_2.mot > /dev/ttyUSB0 
+cat tuika_2.mot > /dev/ttyUSB0 
+cat tuika_2.mot > /dev/ttyUSB0 
+cat tuika_2.mot > /dev/ttyUSB0 
+cat tuika_2.mot > /dev/ttyUSB0 
+cat tuika_2.mot > /dev/ttyUSB0 
+cat tuika_2.mot > /dev/ttyUSB0 

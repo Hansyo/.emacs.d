@@ -1,0 +1,1 @@
+(define-package "elscreen-fr" "20160920.253" "Use frame title as screen tab" '((elscreen "0") (seq "1.11")) :commit "b9c11f80d277086d5d5bf88623e15fc7adbbbe3c" :url "http://github.com/rocher/elscreen-fr")

@@ -73,7 +73,11 @@
 ;;----
 ;; カラーテーマ
 ;;----
-(load-theme 'manoj-dark t)
+(setq J4HOST "J4F")
+(setq NOWHOST (subseq (system-name) 0 3)
+(if (string= J4HOST NOWHOST)
+    (load-theme 'manoj-dark t))
+
 ;;----
 ;; 全角空白とタブを可視化
 ;; 参考：http://d.hatena.ne.jp/t_ume_tky/20120906/1346943019
