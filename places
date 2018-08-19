@@ -1,0 +1,62 @@
+;;; -*- coding: utf-8 -*-
+(("/home/hansy/.emacs.d/elisp/auto-complete/auto-complete.el" . 1736)
+ ("/home/hansy/.emacs.d/elisp/auto-complete/auto-complete-config.el" . 910)
+ ("/home/hansy/.emacs.d/inits/01_AutoComplete.el" . 156)
+ ("/home/hansy/.emacs.d/inits/"
+  (dired-filename . "/home/hansy/.emacs.d/inits/.."))
+ ("/home/hansy/.emacs.d/"
+  (dired-filename . "/home/hansy/.emacs.d/elisp"))
+ ("/home/hansy/.emacs.d/elisp/"
+  (dired-filename . "/home/hansy/.emacs.d/elisp/auto-complete"))
+ ("/home/hansy/.emacs.d/elisp/auto-complete/"
+  (dired-filename . "/home/hansy/.emacs.d/elisp/auto-complete/auto-complete.el"))
+ ("/home/hansy/git/SPRS/MMI/Map/"
+  (dired-filename . "/home/hansy/git/SPRS/MMI/Map/ClientIdToken.py"))
+ ("/home/hansy/git/SPRS/MMI/Map/static/Map/"
+  (dired-filename . "/home/hansy/git/SPRS/MMI/Map/static/Map/.."))
+ ("/home/hansy/git/SPRS/MMI/Map/static/"
+  (dired-filename . "/home/hansy/git/SPRS/MMI/Map/static/.."))
+ ("/home/hansy/git/SPRS/MMI/Map/views.py" . 700)
+ ("/home/hansy/git/SPRS/MMI/Map/templates/Map/"
+  (dired-filename . "/home/hansy/git/SPRS/MMI/Map/templates/Map/index.html"))
+ ("/home/hansy/git/SPRS/MMI/Map/templates/Map/index.html" . 544)
+ ("/home/hansy/git/SPRS/MMI/Map/templates/"
+  (dired-filename . "/home/hansy/git/SPRS/MMI/Map/templates/.."))
+ ("/home/hansy/git/SPRS/MMI/Map/ClientIdToken.py" . 67)
+ ("/home/hansy/git/SPRS/MMI/polls/static/"
+  (dired-filename . "/home/hansy/git/SPRS/MMI/polls/static/.."))
+ ("/home/hansy/git/SPRS/MMI/MMI/settings.py" . 2135)
+ ("/home/hansy/git/SPRS/MMI/MMI/"
+  (dired-filename . "/home/hansy/git/SPRS/MMI/MMI/urls.py"))
+ ("/home/hansy/git/SPRS/MMI/MMI/urls.py" . 758)
+ ("/home/hansy/git/SPRS/MMI/polls/templates/polls/"
+  (dired-filename . "/home/hansy/git/SPRS/MMI/polls/templates/polls/.."))
+ ("/home/hansy/git/SPRS/MMI/polls/templates/polls/index.html" . 283)
+ ("/home/hansy/git/SPRS/"
+  (dired-filename . "/home/hansy/git/SPRS/MMI"))
+ ("/home/hansy/git/SPRS/.gitignore" . 13)
+ ("/home/hansy/git/SPRS/MMI/polls/templates/"
+  (dired-filename . "/home/hansy/git/SPRS/MMI/polls/templates/.."))
+ ("/home/hansy/git/SPRS/MMI/polls/"
+  (dired-filename . "/home/hansy/git/SPRS/MMI/polls/.."))
+ ("/home/hansy/git/SPRS/MMI/"
+  (dired-filename . "/home/hansy/git/SPRS/MMI/.."))
+ ("/home/hansy/.zshrc_usability" . 335)
+ ("/home/hansy/git/SPRS_OLD/MMI/polls/apps.py" . 91)
+ ("/home/hansy/git/SPRS/MMI/Map/urls.py" . 111)
+ ("/home/hansy/git/SPRS/MMI/Map/apps.py" . 82)
+ ("/home/hansy/git/SPRS/MMI/polls/views.py" . 1096)
+ ("/home/hansy/git/zsh-git-prompt/"
+  (dired-filename . "/home/hansy/git/zsh-git-prompt/zshrc.sh"))
+ ("/home/hansy/git/zsh-git-prompt/zshrc.sh" . 341)
+ ("/home/hansy/git/zsh-git-prompt/gitstatus.py" . 470)
+ ("/home/hansy/git/zsh-git-prompt/stack.yaml" . 558)
+ ("/home/hansy/.zshrc_zplug" . 567)
+ ("/home/hansy/.zshrc_looks" . 228)
+ ("/home/hansy/.zshrc" . 264)
+ ("/home/hansy/"
+  (dired-filename . "/home/hansy/zshrc"))
+ ("/home/hansy/zshrc/"
+  (dired-filename . "/home/hansy/zshrc/.zshrc.custom"))
+ ("/home/hansy/zshrc/.zshrc.custom" . 2957)
+ ("/home/hansy/git/Line-Tracer/linetrace.c" . 6584))
